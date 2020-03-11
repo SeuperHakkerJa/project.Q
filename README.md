@@ -1,2 +1,2 @@
 # project.Q
-Quantum algorithms, Concepts &amp; Simulation (Qiskit)
+Quantum Circuits / Algorithms implemented in Jupyter + IBM Qiskit
